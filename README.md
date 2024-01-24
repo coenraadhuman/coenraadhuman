@@ -8,14 +8,4 @@ Software engineer that loves all things tech related.
 
 [<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coenraadhuman&theme=radical" width="100%" />](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coenraadhuman&theme=radical) 
 
-## Trophies
-
-![coenraadhuman's Profile Trophies](https://github-profile-trophy.vercel.app/?username=coenraadhuman&row=4&theme=radical&no-frame=true)
-
-### Visitor Count
-
-![coenraadhuman's Profile Counter](https://profile-counter.glitch.me/coenraadhuman/count.svg)
-
-![coenraadhuman's Github Gif](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
-
 </div>
