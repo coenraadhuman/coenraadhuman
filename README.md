@@ -2,6 +2,21 @@ Software engineer that loves all things tech related.
 
 <div align="center">
 
-[<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coenraadhuman&theme=github_dark" width="100%" />](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coenraadhuman&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coenraadhuman&theme=holi&name=Coenraad+Human)
 
 </div>
+
+<table>
+  <tr>
+    <td> 
+      
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coenraadhuman&theme=holi)  
+    </td>
+    <td>
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coenraadhuman&theme=holi)  
+    </td>
+    <td>
+    ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coenraadhuman&theme=holi)
+    </td>
+  </tr>
+</table>
